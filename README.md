@@ -50,7 +50,7 @@ For the best experience, open the terminal in full screen to view the hangman dr
     |      (_)
     |      \|/
     |       |
-    |      / \\
+    |      / \
     |
    _|____________
 
