@@ -41,7 +41,7 @@ For the best experience, open the terminal in full screen to view the hangman dr
 
 ## Sample Game Output
 
-\`\`\`plaintext
+```plaintext
      ____________
     |/      |
     |       |
@@ -55,6 +55,6 @@ For the best experience, open the terminal in full screen to view the hangman dr
    _|____________
 
    Loser
-\`\`\`
+```
 
 Enjoy the game!
