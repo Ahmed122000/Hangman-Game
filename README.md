@@ -35,9 +35,9 @@ For the best experience, open the terminal in full screen to view the hangman dr
 
 1. Clone this repository.
 2. Run the following command in your terminal:
-   \`\`\`bash
+   ```bash
    python hangman.py
-   \`\`\`
+   ```
 
 ## Sample Game Output
 
