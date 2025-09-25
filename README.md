@@ -15,7 +15,7 @@ A simple command-line-based Hangman game written in Python.
 - **Player 1**: Enter a word for **Player 2** to guess (lowercase letters only).
 - **Player 2**: Guess the hidden word by entering one letter at a time.
 - For each incorrect guess, a part of the hangman is drawn. After 10 incorrect guesses, the hangman will be fully drawn, and Player 2 will lose.
-- Enter 'quit' to quit the game
+- Enter `quit` to quit the game
 
 ## Game Rules
 
